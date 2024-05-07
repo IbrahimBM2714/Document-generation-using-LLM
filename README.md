@@ -12,6 +12,9 @@
 
 <h3>Provided below is an example scenario:</h3>
 </br>
+
 ![Capture](https://github.com/IbrahimBM2714/Document-generation-using-LLM/assets/115867055/c344ca34-58ef-428f-938e-ae5874046ede)
+
 </br>
+
 ![Capture3](https://github.com/IbrahimBM2714/Document-generation-using-LLM/assets/115867055/3e3dc39f-9638-4d62-8d8b-2e38460fb4e8)
